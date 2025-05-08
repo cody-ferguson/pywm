@@ -2,7 +2,6 @@
 
 [![Release](https://img.shields.io/github/v/release/cody-ferguson/pywm)](https://img.shields.io/github/v/release/cody-ferguson/pywm)
 [![Build status](https://img.shields.io/github/actions/workflow/status/cody-ferguson/pywm/main.yml?branch=main)](https://github.com/cody-ferguson/pywm/actions/workflows/main.yml?query=branch%3Amain)
-[![codecov](https://codecov.io/gh/cody-ferguson/pywm/branch/main/graph/badge.svg)](https://codecov.io/gh/cody-ferguson/pywm)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/cody-ferguson/pywm)](https://img.shields.io/github/commit-activity/m/cody-ferguson/pywm)
 [![License](https://img.shields.io/github/license/cody-ferguson/pywm)](https://img.shields.io/github/license/cody-ferguson/pywm)
 
